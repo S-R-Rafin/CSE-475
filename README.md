@@ -47,7 +47,7 @@ All images were collected with informed consent. Personally identifiable informa
 
 If this dataset is used in research, please cite it as follows:
 
-Arsenicosis Skin Image Dataset, Chapainawabganj, Bangladesh. Collected from rural subjects using mobile photography. (Year of Collection: XXXX)
+Arsenicosis Skin Image Dataset, Chapainawabganj, Bangladesh. Collected from rural subjects using mobile photography. (Year of Collection: 2023)
 
 A formal citation will be added once the dataset is officially published.
 
@@ -59,8 +59,3 @@ This dataset is distributed under the Creative Commons Attribution 4.0 Internati
 
 The contributors acknowledge the participation of the communities of Betbaria, Balubagan, Dole Para, and Ramchandrapur Hat. Special thanks are extended to the data collection team and dermatology experts involved in the annotation process.
 
-## Contact
-
-For inquiries, collaboration opportunities, or access requests, please contact:  
-[Your Name / Organization]  
-[your_email@example.com]
