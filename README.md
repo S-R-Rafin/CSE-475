@@ -8,6 +8,12 @@ The dataset consists of PNG images with a fixed dimension of 244 by 244 pixels. 
 
 Images were collected from human subjects using four smartphones with different camera specifications. This dataset is suitable for dermatological studies and the development of machine learning models for automated classification.
 
+## Data Access
+
+The dataset is publicly available and can be accessed and downloaded from the following link:
+
+[Download Dataset from Mendeley Data](https://data.mendeley.com/datasets/x4hgnjj5gv/2)
+
 ## Data Collection Locations
 
 The data was collected from human subjects residing in four villages in Chapainawabganj District, Bangladesh. The specific locations are:
